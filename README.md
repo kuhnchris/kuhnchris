@@ -1,16 +1,16 @@
-### Hello-hi there on my profile page!
+# Hello-hi there on my profile page!
 You're looking for something special?
 
-## Latest update to this readme: 08/May/2021
+### Latest update to this readme: 08/May/2021
 * Updated all the old projects into a mono repository
 * Removed all the old unused forks
 
-## Worked on:
+### Worked on:
 * 3Box
 * Gitcoin
 * OBS
 
-## Worked with:
+### Worked with:
 * ABAP
 * Javascript
 * Typescript
