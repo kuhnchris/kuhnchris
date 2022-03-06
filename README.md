@@ -1,14 +1,20 @@
 # Hello-hi there on my profile page!
-You're looking for something special?
+Need something? Find me on Discord or contact me via email! I'm always eager to help. :-)
 
-### Latest update to this readme: 08/May/2021
-* Updated all the old projects into a mono repository
-* Removed all the old unused forks
+### Latest update to this readme: 06/Mar/2022
+* Added a couple of new repos
+* Experimented with Github Actions
+* Played around with Github Contianer Repository (ghcr)
 
-### Worked on:
-* 3Box
-* Gitcoin
+### Worked on or contributed to:
+* Godot Engine
 * OBS
+* Revite / Revolt Chat
+* Mindustry (translation(s))
+* inkscape-export-layers (rewrite)
+* Wekan (translation(s))
+* Gitcoin
+* 3Box
 
 ### Worked with:
 * ABAP
@@ -22,6 +28,10 @@ You're looking for something special?
 * Java
 * C#
 * Unity
+* Godot (gdscript)
+* YAML
+* Flask
+* Django
 * Android (React-Native)
 * Docker (YAML)
 * HTML5
@@ -29,6 +39,8 @@ You're looking for something special?
 * GraphQL
 * various other frameworks and skills I probabbly forgot about...
 
+### Any more questions?
+Feel free to reach out to me!
 <!--
 **kuhnchris/kuhnchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
