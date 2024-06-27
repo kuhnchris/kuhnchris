@@ -1,10 +1,7 @@
-# Hello-hi there on my profile page!
+# Howdy!
 Need something? Find me on Discord or contact me via email! I'm always eager to help. :-)
 
-### Latest update to this readme: 06/Mar/2022
-* Added a couple of new repos
-* Experimented with Github Actions
-* Played around with Github Contianer Repository (ghcr)
+## Latest update to this readme: Late June 2024
 
 ### Worked on or contributed to:
 * Godot Engine
@@ -17,6 +14,10 @@ Need something? Find me on Discord or contact me via email! I'm always eager to 
 * 3Box
 
 ### Worked with:
+* Github Actions
+* Github Actions Contianer repository (ghcr)
+* Rust
+* Go
 * ABAP
 * Javascript
 * Typescript
